@@ -1,6 +1,7 @@
 // Import stylesheets
-import './style.css';
+/*TODO change title to Hello World*/
+import "./style.css";
 
 // Write Javascript code!
-const appDiv = document.getElementById('app');
+const appDiv = document.getElementById("app");
 appDiv.innerHTML = `<h1>Starter</h1>`;
